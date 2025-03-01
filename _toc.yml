@@ -1,7 +1,12 @@
 format: jb-book
 root: index.md
 parts:
-  - caption: 招聘
+parts:
+  - caption: 制度
     chapters:
-      - file: recruitment/business_entity/README.md
-      - file: recruitment/internship_base/README.md
+      - file: institutions/ranks/README.md
+        sections:
+          - file: institutions/ranks/business_entity.md
+          - file: institutions/ranks/internship_base.md
+          - file: institutions/ranks/ra_groups.md
+      - file: institutions/posts/README.md
