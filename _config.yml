@@ -1,7 +1,7 @@
 # https://jupyterbook.org/en/stable/customize/config.html
-name: quanttide-example-of-documentation
-title: 量潮示例文档项目
+name: quanttide-profile-of-human-resources
+title: 量潮人力资源档案
 author: 量潮科技
-description: 量潮文档项目实例
+description: 向求职者公开我们的人力资源制度等信息。
 # Jupyter Book Config
 only_build_toc_files: true
