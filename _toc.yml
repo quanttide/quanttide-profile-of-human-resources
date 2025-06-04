@@ -1,16 +1,14 @@
 format: jb-book
 root: index.md
-parts:
-parts:
-  - caption: 制度
-    chapters:
-      - file: institutions/ranks/README.md
-        sections:
-          - file: institutions/ranks/business_entity.md
-          - file: institutions/ranks/internship_base.md
-          - file: institutions/ranks/ra_groups.md
-      - file: institutions/posts/README.md
-  - caption: 职能
-    chapters:
-      - file: functions/recruitment/README.md
-      - file: functions/training/README.md
+chapters:
+- file: remunerating/README.md
+- file: ranks/README.md
+- file: positions/README.md
+  sections:
+  - file: positions/tech/README.md
+    sections:
+    - file: positions/tech/data_engineer.md
+  - file: positions/sales/README.md
+  - file: positions/growth/README.md
+    sections:
+    - file: positions/growth/social_media_operator.md
