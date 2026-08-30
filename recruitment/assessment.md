@@ -1,7 +1,5 @@
 # 考核方式
 
-> 来源：`apps/qtrecurit/src/site/src/pages/Assessment.tsx`，同步于 2026-08-30。
-
 ## 以真实创业环境为中心的招聘考核机制
 
 ### 「微型创业」式考核

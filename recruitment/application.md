@@ -1,7 +1,5 @@
 # 报名方式与简历、求职信要求
 
-> 来源：`apps/qtrecurit/src/site/src/pages/Intern.tsx`（报名方式）与 Application 页，同步于 2026-08-30。
-
 ## 报名方式
 
 有意者请按要求完成求职信和简历，并将它们通过邮件发送到 hr@quanttide.com。
