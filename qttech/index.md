@@ -18,10 +18,5 @@
 
 - [实习岗位](./plan/intern.md)
 - [兼职岗位](./plan/parttime.md)
-- [市场序列的用人策略](./plan/market.md)
 - [报名方式与简历、求职信要求](./recruitment/application.md)
 - [考核方式](./recruitment/assessment.md)
-- [提成与激励结构](./remuneration/sales-commission.md)
-- [绩效制度](./performance.md)
-- [入离职与人员流动](./relation/onboarding-offboarding.md)
-- [高管培养路线](./training/executive-track.md)
