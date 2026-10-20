@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [0.3.2] - 2026-10-20
+
+- 移除 `qtrecurit/dmu-research-assistant.md`：大连医科大学课题组科研助理招聘已下线，启事归档至人力资源归档仓库（`qtrecurit/dmu-research-assistant.md`）。
+
 ## [0.3.1] - 2026-08-30
 
 - 删除 ROADMAP：profile 为事实原，不再作为官网的同步存档；
