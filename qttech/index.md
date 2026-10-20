@@ -20,3 +20,4 @@
 - [兼职岗位](./plan/parttime.md)
 - [报名方式与简历、求职信要求](./recruitment/application.md)
 - [考核方式](./recruitment/assessment.md)
+- [全栈工程师绩效标准](./performance/fullstack-engineer.md)
