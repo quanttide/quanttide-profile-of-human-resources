@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+- `qttech/` 更名为 `quanttide-tech/`，与主体档案命名对齐；
+- 新增 `quanttide-founder/performance/`：创始人绩效正本，校准句按业务线组织（线是文件、天是行），与日记仓分工——日记记事实，绩效记业务判断；
 - 迁出 `qttech/recruitment/assessment.md`（考核方式）至量潮联盟档案仓 `qtrecurit/assessment.md`：招聘与 qtrecurit 解耦后归联盟主体；问卷旧口径在目标侧更新为「投递后直接进群」。
 - 迁出 `qttech/recruitment/application.md`（报名方式）至量潮联盟档案仓 `qtrecurit/application.md`：同上，零改动。
 
