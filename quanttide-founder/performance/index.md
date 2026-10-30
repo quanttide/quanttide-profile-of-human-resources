@@ -21,7 +21,7 @@
 
 ## 线
 
-按职责归类；当前四条线均属产品研发职责。
+按职责归类。
 
 ### 产品研发
 
@@ -29,3 +29,12 @@
 - [qtfounder](./qtfounder.md)
 - [qtcloud-media](./qtcloud-media.md)
 - [qtrecurit](./qtrecurit.md)
+- [qtcloud-feishu](./qtcloud-feishu.md)
+- [qtfounder-hermes](./qtfounder-hermes.md)
+- [qtcloud-work](./qtcloud-work.md)
+
+### 方法论实验室
+
+- [qtgame-war](./qtgame-war.md)——产出间接，不按产品交付衡量
+
+> 本周只有传播动作（术语统一）或杂项（缓存清理、官网 scope 整理、Skill 收纳入 qtcloud-devops）的仓不成线。
