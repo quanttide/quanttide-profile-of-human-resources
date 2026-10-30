@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [Unreleased]
+
+- 迁出 `qttech/recruitment/assessment.md`（考核方式）至量潮联盟档案仓 `qtrecurit/assessment.md`：招聘与 qtrecurit 解耦后归联盟主体；问卷旧口径在目标侧更新为「投递后直接进群」。
+
 ## [0.3.2] - 2026-10-20
 
 - 移除 `qtrecurit/dmu-research-assistant.md`：大连医科大学课题组科研助理招聘已下线，启事归档至人力资源归档仓库（`qtrecurit/dmu-research-assistant.md`）。
