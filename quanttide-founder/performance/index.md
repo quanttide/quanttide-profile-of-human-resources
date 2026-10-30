@@ -16,6 +16,6 @@
 ### 产品研发
 
 - [量潮云](./qtcloud.md)
-- qtfounder（本周推测待校准）
-- qtcloud-media（本周推测待校准）
-- qtrecurit（本周推测待校准）
+- [qtfounder](./qtfounder.md)
+- [qtcloud-media](./qtcloud-media.md)
+- [qtrecurit](./qtrecurit.md)
